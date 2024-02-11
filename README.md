@@ -4,3 +4,7 @@
       <img src="https://www.notion.so/images/page-cover/woodcuts_3.jpg" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: 1; object-position: center 8.15%;"/>
   </div>
 </div>
+
+<div align="center">
+  # Technologies
+</div>
